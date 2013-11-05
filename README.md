@@ -1,4 +1,2 @@
-exampleSTL
-==========
-
-example file
+Some Example STL files
+========
